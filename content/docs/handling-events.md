@@ -49,7 +49,7 @@ function ActionLink() {
   return (
     <a href="#" onClick={handleClick}>
       Click me
-    </a>
+    </a>d
   );
 }
 ```
